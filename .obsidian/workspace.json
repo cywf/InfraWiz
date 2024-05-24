@@ -20,9 +20,9 @@
                   "state": {
                     "file": "InfraWiz-DASH.canvas",
                     "viewState": {
-                      "x": -7932.998377943664,
-                      "y": 3729.8158413722435,
-                      "zoom": -0.8788553873697913
+                      "x": -5810.294160660382,
+                      "y": 5740.72988284799,
+                      "zoom": -0.18912150065104186
                     }
                   },
                   "pinned": true
@@ -57,14 +57,11 @@
                     "id": "43d7e3bf99b807b9",
                     "type": "leaf",
                     "state": {
-                      "type": "canvas",
+                      "type": "markdown",
                       "state": {
-                        "file": "InfraMage/InfraMage.canvas",
-                        "viewState": {
-                          "x": -207.27476063390347,
-                          "y": 387.12974663182354,
-                          "zoom": -1.447301267351994
-                        }
+                        "file": "InfraMage/Files.md",
+                        "mode": "source",
+                        "source": false
                       }
                     }
                   }
@@ -238,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfraMage/InfraMage.canvas",
+                "file": "InfraWiz-DASH.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfraMage/InfraMage.canvas",
+                "file": "InfraWiz-DASH.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfraMage/InfraMage.canvas"
+                "file": "InfraWiz-DASH.canvas"
               }
             }
           }
@@ -300,12 +297,18 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "43d7e3bf99b807b9",
+  "active": "d1331c4abfbbd168",
   "lastOpenFiles": [
-    "Fenrir/Fenrir.canvas",
+    "InfraMage/Files.md",
     "InfraWiz-DASH.canvas",
-    "Commander-Q/Commander-Q.canvas",
+    "InfraMage/Functions.md",
+    "InfraMage/Vision.md",
+    "InfraMage/Interoperability.md",
+    "InfraMage/Purpose.md",
+    "InfraMage/Instructions.md",
     "InfraMage/InfraMage.canvas",
+    "Fenrir/Fenrir.canvas",
+    "Commander-Q/Commander-Q.canvas",
     "ArchiveAce/ArchiveAce.canvas",
     "MaintainMagi/MaintainMagi.canvas",
     "InsightOracle/InsightOracle.canvas",
