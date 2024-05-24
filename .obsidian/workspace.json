@@ -15,9 +15,9 @@
               "state": {
                 "file": "InfraWiz-DASH.canvas",
                 "viewState": {
-                  "x": -4020.043214440871,
-                  "y": 5674.786852601213,
-                  "zoom": -2.1846161748643755
+                  "x": -4740.672324064818,
+                  "y": 4084.16993897906,
+                  "zoom": -0.8080658818956254
                 }
               }
             }
@@ -150,8 +150,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1cd4533a1a9e633c",
+  "active": "27091432d014b8be",
   "lastOpenFiles": [
+    "Commander-Q",
+    "ArchiveAce",
+    "MaintainMagi",
+    "InsightOracle",
+    "AppArcher",
     "Fenrir",
     "InfraMage",
     "InfraWiz-DASH.png",
