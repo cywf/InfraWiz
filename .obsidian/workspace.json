@@ -12,37 +12,23 @@
             "type": "tabs",
             "children": [
               {
-                "id": "890a67ece2bfe2b7",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "MaintainMagi/MaintainMagi.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              },
-              {
                 "id": "d1331c4abfbbd168",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "canvas",
                   "state": {
                     "file": "InfraWiz-DASH.canvas",
                     "viewState": {
-                      "x": 684.494860479701,
-                      "y": 5327.455469638981,
-                      "zoom": -4
+                      "x": -118.12564470393525,
+                      "y": 6526.463151877088,
+                      "zoom": -2.327974446614583
                     }
-                  }
+                  },
+                  "pinned": true
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "e2194cab8fb6c68e",
@@ -54,10 +40,100 @@
                 "state": {
                   "type": "canvas",
                   "state": {
+                    "file": "AppArcher/AppArcher.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              },
+              {
+                "id": "8d21c2a87ec931ba",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
                     "file": "ArchiveAce/ArchiveAce.canvas",
                     "viewState": {
-                      "x": -17.669999999999998,
-                      "y": -96.72000000000008,
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              },
+              {
+                "id": "59e448e0eabe2320",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Commander-Q/Commander-Q.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              },
+              {
+                "id": "ade0354ab81bfb2f",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Fenrir/Fenrir.canvas",
+                    "viewState": {
+                      "x": 10,
+                      "y": 90,
+                      "zoom": -0.1724219399531634
+                    }
+                  }
+                }
+              },
+              {
+                "id": "c375077abdf8a45b",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "InfraMage/InfraMage.canvas",
+                    "viewState": {
+                      "x": -78,
+                      "y": 324.5,
+                      "zoom": -0.43284039757994563
+                    }
+                  }
+                }
+              },
+              {
+                "id": "105cd01cc860fee8",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "InsightOracle/InsightOracle.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              },
+              {
+                "id": "c86a133d186a3385",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "MaintainMagi/MaintainMagi.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
                       "zoom": 0
                     }
                   }
@@ -132,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfraWiz-DASH.canvas",
+                "file": "AppArcher/AppArcher.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfraWiz-DASH.canvas",
+                "file": "AppArcher/AppArcher.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfraWiz-DASH.canvas"
+                "file": "AppArcher/AppArcher.canvas"
               }
             }
           }
@@ -194,16 +270,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d1331c4abfbbd168",
+  "active": "27091432d014b8be",
   "lastOpenFiles": [
     "MaintainMagi/MaintainMagi.canvas",
     "InsightOracle/InsightOracle.canvas",
     "InfraMage/InfraMage.canvas",
     "Fenrir/Fenrir.canvas",
     "Commander-Q/Commander-Q.canvas",
-    "InfraWiz-DASH.canvas",
     "ArchiveAce/ArchiveAce.canvas",
     "AppArcher/AppArcher.canvas",
+    "InfraWiz-DASH.canvas",
     "Commander-Q",
     "ArchiveAce",
     "MaintainMagi",
