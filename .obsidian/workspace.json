@@ -4,22 +4,172 @@
     "type": "split",
     "children": [
       {
-        "id": "34cb841c82fe1fd7",
-        "type": "tabs",
+        "id": "a73b85a2270f26ca",
+        "type": "split",
         "children": [
           {
-            "id": "27091432d014b8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+            "id": "34cb841c82fe1fd7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1331c4abfbbd168",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "InfraWiz-DASH.canvas",
+                    "viewState": {
+                      "x": -10044.576729972576,
+                      "y": 5127.226772956591,
+                      "zoom": -1.8383931477864586
+                    }
+                  },
+                  "pinned": true
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "39c6d240e68faed5",
+            "type": "split",
+            "children": [
+              {
+                "id": "148109bccf8783dc",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ade0354ab81bfb2f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Fenrir/Fenrir.canvas",
+                        "viewState": {
+                          "x": -83.17207253551597,
+                          "y": 33.09927189733666,
+                          "zoom": -1.0682918943802466
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "43d7e3bf99b807b9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Commander-Q/Files.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "e2194cab8fb6c68e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "27091432d014b8be",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "InsightOracle/InsightOracle.canvas",
+                        "viewState": {
+                          "x": -51.15000000000001,
+                          "y": 61.37999999999999,
+                          "zoom": 0
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "8d21c2a87ec931ba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "ArchiveAce/ArchiveAce.canvas",
+                        "viewState": {
+                          "x": 79.88273437499971,
+                          "y": -4.3298697960381105e-14,
+                          "zoom": 0
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "59e448e0eabe2320",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Commander-Q/Commander-Q.canvas",
+                        "viewState": {
+                          "x": 40.91999999999987,
+                          "y": -101.42000000000002,
+                          "zoom": 0
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "c375077abdf8a45b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Commander-Q/Commander-Q.canvas",
+                        "viewState": {
+                          "x": -62,
+                          "y": -30.5,
+                          "zoom": -0.44218057558627333
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "105cd01cc860fee8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "InsightOracle/InsightOracle.canvas",
+                        "viewState": {
+                          "x": 0,
+                          "y": 0,
+                          "zoom": 0
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "id": "c86a133d186a3385",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "MaintainMagi/MaintainMagi.canvas",
+                        "viewState": {
+                          "x": 78.11999999999988,
+                          "y": -57.00921875000006,
+                          "zoom": 0
+                        }
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 3
+              }
+            ],
+            "direction": "vertical"
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "InfraWiz-DASH.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "InfraWiz-DASH.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "InfraWiz-DASH.canvas"
               }
             }
           }
@@ -143,14 +293,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "27091432d014b8be",
+  "active": "d1331c4abfbbd168",
   "lastOpenFiles": [
-    "InfraWiz.excalidraw.md",
-    "InfraWiz-DASH.png",
-    "InfraWiz.md",
-    "InfraWiz-DASH.canvas"
+    "env",
+    "Commander-Q/Files.md",
+    "InfraWiz-DASH.canvas",
+    "Commander-Q/Functions.md",
+    "Commander-Q/Vision.md",
+    "Commander-Q/Interoperability.md",
+    "Commander-Q/Instructions.md",
+    "Commander-Q/Purpose.md",
+    "ArchiveAce/Files.md",
+    "ArchiveAce/Functions.md",
+    "ArchiveAce/Vision.md",
+    "ArchiveAce/Interoperability.md",
+    "ArchiveAce/Purpose.md",
+    "ArchiveAce/Instructions.md",
+    "MaintainMagi/Files.md",
+    "MaintainMagi/Funtions.md",
+    "MaintainMagi/Vision.md",
+    "MaintainMagi/Interoperability.md",
+    "MaintainMagi/Instructions.md",
+    "MaintainMagi/Purpose.md",
+    "InsightOracle/Files.md",
+    "InsightOracle/Functions.md",
+    "InsightOracle/Vision.md",
+    "InsightOracle/Interoperability.md",
+    "InsightOracle/Instructions.md",
+    "InsightOracle/Purpose.md",
+    "AppArcher/Files.md",
+    "InfraMage/InfraMage.canvas",
+    "Fenrir/Fenrir.canvas",
+    "Commander-Q/Commander-Q.canvas",
+    "ArchiveAce/ArchiveAce.canvas",
+    "MaintainMagi/MaintainMagi.canvas",
+    "InsightOracle/InsightOracle.canvas",
+    "AppArcher/AppArcher.canvas",
+    "Commander-Q",
+    "ArchiveAce",
+    "MaintainMagi",
+    "InsightOracle",
+    "AppArcher",
+    "Fenrir",
+    "InfraMage",
+    "InfraWiz-DASH.png"
   ]
 }
