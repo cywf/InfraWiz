@@ -17,16 +17,32 @@
                 "state": {
                   "type": "canvas",
                   "state": {
+                    "file": "MaintainMagi/MaintainMagi.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              },
+              {
+                "id": "d1331c4abfbbd168",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
                     "file": "InfraWiz-DASH.canvas",
                     "viewState": {
-                      "x": -486.16186046511586,
-                      "y": 5044.5488372092905,
-                      "zoom": -3.670596784550491
+                      "x": 684.494860479701,
+                      "y": 5327.455469638981,
+                      "zoom": -4
                     }
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "e2194cab8fb6c68e",
@@ -40,8 +56,8 @@
                   "state": {
                     "file": "ArchiveAce/ArchiveAce.canvas",
                     "viewState": {
-                      "x": 0,
-                      "y": 0,
+                      "x": -17.669999999999998,
+                      "y": -96.72000000000008,
                       "zoom": 0
                     }
                   }
@@ -178,11 +194,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "890a67ece2bfe2b7",
+  "active": "d1331c4abfbbd168",
   "lastOpenFiles": [
+    "MaintainMagi/MaintainMagi.canvas",
+    "InsightOracle/InsightOracle.canvas",
+    "InfraMage/InfraMage.canvas",
+    "Fenrir/Fenrir.canvas",
+    "Commander-Q/Commander-Q.canvas",
+    "InfraWiz-DASH.canvas",
     "ArchiveAce/ArchiveAce.canvas",
     "AppArcher/AppArcher.canvas",
-    "InfraWiz-DASH.canvas",
     "Commander-Q",
     "ArchiveAce",
     "MaintainMagi",
