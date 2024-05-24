@@ -20,9 +20,9 @@
                   "state": {
                     "file": "InfraWiz-DASH.canvas",
                     "viewState": {
-                      "x": -5810.294160660382,
-                      "y": 5740.72988284799,
-                      "zoom": -0.18912150065104186
+                      "x": -10044.576729972576,
+                      "y": 5127.226772956591,
+                      "zoom": -1.8383931477864586
                     }
                   },
                   "pinned": true
@@ -59,7 +59,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "InfraMage/Files.md",
+                        "file": "Commander-Q/Files.md",
                         "mode": "source",
                         "source": false
                       }
@@ -299,13 +299,32 @@
   },
   "active": "d1331c4abfbbd168",
   "lastOpenFiles": [
-    "InfraMage/Files.md",
+    "Commander-Q/Files.md",
     "InfraWiz-DASH.canvas",
-    "InfraMage/Functions.md",
-    "InfraMage/Vision.md",
-    "InfraMage/Interoperability.md",
-    "InfraMage/Purpose.md",
-    "InfraMage/Instructions.md",
+    "Commander-Q/Functions.md",
+    "Commander-Q/Vision.md",
+    "Commander-Q/Interoperability.md",
+    "Commander-Q/Instructions.md",
+    "Commander-Q/Purpose.md",
+    "ArchiveAce/Files.md",
+    "ArchiveAce/Functions.md",
+    "ArchiveAce/Vision.md",
+    "ArchiveAce/Interoperability.md",
+    "ArchiveAce/Purpose.md",
+    "ArchiveAce/Instructions.md",
+    "MaintainMagi/Files.md",
+    "MaintainMagi/Funtions.md",
+    "MaintainMagi/Vision.md",
+    "MaintainMagi/Interoperability.md",
+    "MaintainMagi/Instructions.md",
+    "MaintainMagi/Purpose.md",
+    "InsightOracle/Files.md",
+    "InsightOracle/Functions.md",
+    "InsightOracle/Vision.md",
+    "InsightOracle/Interoperability.md",
+    "InsightOracle/Instructions.md",
+    "InsightOracle/Purpose.md",
+    "AppArcher/Files.md",
     "InfraMage/InfraMage.canvas",
     "Fenrir/Fenrir.canvas",
     "Commander-Q/Commander-Q.canvas",
@@ -320,9 +339,6 @@
     "AppArcher",
     "Fenrir",
     "InfraMage",
-    "InfraWiz-DASH.png",
-    "README.md",
-    "InfraWiz.excalidraw.md",
-    "InfraWiz.md"
+    "InfraWiz-DASH.png"
   ]
 }

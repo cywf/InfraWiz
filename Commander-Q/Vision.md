@@ -1,0 +1,1 @@
+Expound upon the future of this Assistant, and it's ability to enhance upon it's own capabilities in order to assist [[Commander-Q]] in all of it's requests

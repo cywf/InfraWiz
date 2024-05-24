@@ -1,0 +1,1 @@
+Define Functions this Assistant will need in order to assist with [[Commander-Q]]'s requests

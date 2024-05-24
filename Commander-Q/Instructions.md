@@ -1,0 +1,1 @@
+Define Instructions needed for this Assistant, expressively stating is: [[InfraMage/Vision]], [[InfraMage/Functions]], [[InfraMage/Files]], and [[InfraMage/Interoperability]], this way it profoundly understands its purpose, place, capabilities, teamwork, and vision. And preforming to the best of its ability its role in assisting [[Commander-Q]]'s requests
