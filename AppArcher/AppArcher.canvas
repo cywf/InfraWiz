@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"f839529938235d90","x":-500,"y":0,"width":370,"height":205,"type":"text","text":"## **Responsibilities**:\n\n• Manage the deployment of applications and services.\n• Automate CI/CD pipelines.\n• Handle container orchestration and management."},
+		{"id":"84f5fbe4a860c16e","x":80,"y":0,"width":334,"height":340,"type":"text","text":"## **Elaboration:**\n\n• **CI/CD Pipelines**: Integration with Jenkins, GitLab CI, or GitHub Actions to automate deployments.\n\n• **Container Management**: Use Docker and Kubernetes for container deployment and orchestration.\n\n• **Version Control Integration**: Ensure smooth deployments from repositories (Git)."},
+		{"id":"2902da09a1fd70cb","x":-120,"y":-300,"width":233,"height":60,"type":"text","text":"# AppArcher"}
+	],
+	"edges":[
+		{"id":"19056393e84f8d2f","fromNode":"2902da09a1fd70cb","fromSide":"bottom","toNode":"f839529938235d90","toSide":"top"},
+		{"id":"be49f3745f690e78","fromNode":"2902da09a1fd70cb","fromSide":"bottom","toNode":"84f5fbe4a860c16e","toSide":"top"}
+	]
+}

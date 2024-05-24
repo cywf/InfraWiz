@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"e5f9a5828fd2dcdf","x":-480,"y":20,"width":367,"height":200,"type":"text","text":"## **Responsibilities**:\n\n• Configure security settings and policies.\n• Manage firewall rules and security groups.\n• Perform security audits and vulnerability assessments."},
-		{"id":"24a1127276e67bba","x":-220,"y":-140,"width":403,"height":50,"type":"text","text":"# Fenrir **(Security Assistant)**"},
-		{"id":"9497105f4235475b","x":100,"y":40,"width":400,"height":280,"type":"text","text":"## **Elaboration**:\n\n  \n\n• **Firewall Configuration**: Scripts to set up and manage firewall rules (iptables, ufw, etc.).\n\n• **Security Audits**: Integration with tools like OpenVAS or Nessus for vulnerability scanning.\n\n• **Policy Enforcement**: Scripts to enforce security policies (password policies, SSH configurations)."}
+		{"id":"9497105f4235475b","type":"text","text":"## **Elaboration**:\n\n  \n\n• **Firewall Configuration**: Scripts to set up and manage firewall rules (iptables, ufw, etc.).\n\n• **Security Audits**: Integration with tools like OpenVAS or Nessus for vulnerability scanning.\n\n• **Policy Enforcement**: Scripts to enforce security policies (password policies, SSH configurations).","x":100,"y":40,"width":400,"height":280},
+		{"id":"24a1127276e67bba","type":"text","text":"# Fenrir ","x":-80,"y":-180,"width":140,"height":50},
+		{"id":"e5f9a5828fd2dcdf","type":"text","text":"## **Responsibilities**:\n\n• Configure security settings and policies.\n• Manage firewall rules and security groups.\n• Perform security audits and vulnerability assessments.","x":-500,"y":80,"width":367,"height":200}
 	],
 	"edges":[
-		{"id":"53233b468e6ab934","fromNode":"24a1127276e67bba","fromSide":"bottom","toNode":"e5f9a5828fd2dcdf","toSide":"top"},
-		{"id":"c81cb32f0ff4d5fd","fromNode":"24a1127276e67bba","fromSide":"bottom","toNode":"9497105f4235475b","toSide":"top"}
+		{"id":"53233b468e6ab934","fromNode":"24a1127276e67bba","fromSide":"bottom","toNode":"e5f9a5828fd2dcdf","toSide":"top","color":"5","label":"SECURITY-ASSISTANT"},
+		{"id":"c81cb32f0ff4d5fd","fromNode":"24a1127276e67bba","fromSide":"bottom","toNode":"9497105f4235475b","toSide":"top","color":"5","label":"SECURITY-ASSISTANT"}
 	]
 }
