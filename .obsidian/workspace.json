@@ -4,25 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "34cb841c82fe1fd7",
-        "type": "tabs",
+        "id": "a73b85a2270f26ca",
+        "type": "split",
         "children": [
           {
-            "id": "27091432d014b8be",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "InfraWiz-DASH.canvas",
-                "viewState": {
-                  "x": -4740.672324064818,
-                  "y": 4084.16993897906,
-                  "zoom": -0.8080658818956254
+            "id": "34cb841c82fe1fd7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "890a67ece2bfe2b7",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "InfraWiz-DASH.canvas",
+                    "viewState": {
+                      "x": -486.16186046511586,
+                      "y": 5044.5488372092905,
+                      "zoom": -3.670596784550491
+                    }
+                  }
                 }
               }
-            }
+            ]
+          },
+          {
+            "id": "e2194cab8fb6c68e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27091432d014b8be",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "ArchiveAce/ArchiveAce.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -150,8 +178,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "27091432d014b8be",
+  "active": "890a67ece2bfe2b7",
   "lastOpenFiles": [
+    "ArchiveAce/ArchiveAce.canvas",
+    "AppArcher/AppArcher.canvas",
+    "InfraWiz-DASH.canvas",
     "Commander-Q",
     "ArchiveAce",
     "MaintainMagi",
@@ -162,7 +193,6 @@
     "InfraWiz-DASH.png",
     "README.md",
     "InfraWiz.excalidraw.md",
-    "InfraWiz.md",
-    "InfraWiz-DASH.canvas"
+    "InfraWiz.md"
   ]
 }
