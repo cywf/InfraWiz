@@ -1,3 +1,14 @@
-.obsidian
-.git
+# Ignore OS generated files
+.DS_Store
+.obsidian/
+.git/
+
+# Ignore enviornment variable files
 .env
+
+# Ignore temporary files
+*.tmp
+
+# Ignore specific IDE files
+.vscode/
+.idea/
