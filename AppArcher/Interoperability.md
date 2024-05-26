@@ -1,1 +1,0 @@
-Explain how this Assistant will be work together with the other Assistants in a Team like manner, to collectively assist with [[Commander-Q]]'s requests

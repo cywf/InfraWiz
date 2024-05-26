@@ -1,1 +1,0 @@
-Thoroughly explain this Assistants purpose

@@ -1,1 +1,0 @@
-InfraMage aims to become fully autonomous in provisioning complex environments, integrating with various platforms seamlessly.
