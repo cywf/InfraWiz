@@ -1,1 +1,0 @@
-InfraMage sets up servers, installs necessary software, and ensures initial configurations are completed efficiently.

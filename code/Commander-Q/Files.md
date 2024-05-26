@@ -1,0 +1,1 @@
+Define files that would enhance this Assistant ability (_and capability_), by being able to store and recall knowledge, thus becoming smarter and more efficient, thus being a more helpful team member, that is helping fulfill [[Commander-Q]]'s requests

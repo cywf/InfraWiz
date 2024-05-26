@@ -1,1 +1,0 @@
-Include scripts for setting up web servers, database servers, and application environments.
