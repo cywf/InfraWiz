@@ -1,0 +1,52 @@
+- [ ] Develop the InfraWiz-DASH canvas to visualize the project.
+- [x] Create a TODO list for the project and add it to the InfraWiz-DASH canvas.
+- [ ] Update Github Repository:
+	- [ ] Create Initial Release (v0.0.1-alpha), include Release Title, and description
+	- [ ] Setup Git Actions / Zapier Automations that will:
+		- [ ] Auto Pull-Request when new commit on `cywf` branch 
+		- [ ] Semantic Search (utilizing `Elasticsearch`)
+		- [ ] Scan for leaked secrets within repo 
+		- [ ] Notify of vulnerable packages
+- [ ] Develop AI's:
+	- [ ] [[InfraMage.canvas|InfraMage]] 
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InfraMage/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InfraMage/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InfraMage/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InfraMage/Functions|Functions]] (Expand)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InfraMage/Files|Files]] (Identify/Upload)
+	- [ ] [[Fenrir.canvas|Fenrir]]
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Fenrir/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Fenrir/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Fenrir/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Fenrir/Functions|Functions]] (Expand) 
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Fenrir/Files|Files]] (Identify/Upload)
+	- [ ] [[AppArcher.canvas|AppArcher]]
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/AppArcher/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/AppArcher/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/AppArcher/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/AppArcher/Functions|Functions]] (Expand)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/AppArcher/Files|Files]] (Identify/Upload)
+	- [ ] [[InsightOracle.canvas|InsightOracle]]
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InsightOracle/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InsightOracle/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InsightOracle/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InsightOracle/Functions|Functions]] (Expand)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/InsightOracle/Files|Files]] (Identify/Upload)
+	- [ ] [[MaintainMagi.canvas|MaintainMagi]]
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/MaintainMagi/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/MaintainMagi/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/MaintainMagi/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/MaintainMagi/Functions|Functions]] (Expand)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/MaintainMagi/Files|Files]] (Identify/Upload)
+	- [ ] [[ArchiveAce.canvas|ArchiveAce]]
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/ArchiveAce/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/ArchiveAce/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/ArchiveAce/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/ArchiveAce/Functions|Functions]] (Expand)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/ArchiveAce/Files|Files]] (Identify/Upload)
+	- [ ] [[Commander-Q.canvas|Commander-Q]]
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Commander-Q/Instructions|Instructions]] (Fine Tune)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Commander-Q/Interoperability|Interoperability]] (Clarify)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Commander-Q/Vision|Vision]] (Project)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Commander-Q/Functions|Functions]] (Expand)
+		- [ ] [[Wo1fs_ob_notes/TheD3N/D-D3N/Master/FolkvarLabs/InfraWiz/code/Commander-Q/Files|Files]] (Identify/Upload)

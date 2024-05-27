@@ -1,0 +1,3 @@
+[submodule "code/InfraMage/code/InfraMage/ai-control-system"]
+	path = code/InfraMage/code/InfraMage/ai-control-system
+	url = git@github.com:cywf/ai-control-system.git
