@@ -38,18 +38,19 @@ def test_functions_exist():
 
 def test_dependencies():
     """Test that required dependencies are available"""
-    required_modules = ['openai', 'dotenv']
+    # Map package names to their import names
+    required_modules = {
+        'openai': 'openai',
+        'python-dotenv': 'dotenv'
+    }
     success = True
     
-    for module_name in required_modules:
+    for package_name, import_name in required_modules.items():
         try:
-            if module_name == 'dotenv':
-                __import__('dotenv')
-            else:
-                __import__(module_name)
-            print(f"✓ Dependency '{module_name}' available")
+            __import__(import_name)
+            print(f"✓ Dependency '{package_name}' available")
         except ImportError:
-            print(f"✗ Dependency '{module_name}' missing")
+            print(f"✗ Dependency '{package_name}' missing")
             success = False
     
     return success
