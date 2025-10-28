@@ -33,9 +33,57 @@ Auth: cywf
 
 ## Usage
 
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/cywf/InfraWiz.git
+   cd InfraWiz
+   ```
+
+2. **Install Python dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Set up OpenAI API key:**
+   
+   Option A - Using environment variable:
+   ```bash
+   export OPENAI_API_KEY='your-api-key-here'
+   ```
+   
+   Option B - Using .env file (recommended):
+   ```bash
+   cp .env.example .env
+   # Edit .env and add your OpenAI API key
+   ```
+
+   Get your API key from: https://platform.openai.com/api-keys
+
+### Running InfraWiz
+
+Run the main script:
+```bash
+python infra_wiz.py
+```
+
 - Upon running **InfraWiz**, the user will be prompted to specify their setup requirements.
 - **InfraWiz** will interact with the user to gather all necessary information.
-- Based on the input, **InfraWiz** will use Terraform to provision the infrastructure and execute additional setup scripts accordingly.
+- Based on the input, **InfraWiz** will provide AI-powered recommendations for infrastructure setup.
+
+**Note:** For safety, automatic command execution is disabled. Review the AI recommendations carefully and execute commands manually.
+
+### Example Usage
+
+```bash
+$ python infra_wiz.py
+Hi! I'm InfraWiz, your Infrastructure Management Wizard.
+What can I help you with today?
+Enter your request: Set up a web server with nginx and python
+```
+
+InfraWiz will then analyze your request and provide specific recommendations for packages, configurations, and setup steps.
 
 ### Contribution
 
