@@ -33,6 +33,8 @@ Auth: cywf
 
 ## Usage
 
+For a quick start guide, see [QUICKSTART.md](QUICKSTART.md).
+
 ### Installation
 
 1. **Clone the repository:**
