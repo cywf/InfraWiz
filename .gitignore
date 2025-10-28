@@ -13,3 +13,10 @@
 # Ignore specific IDE files
 .vscode/
 .idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
